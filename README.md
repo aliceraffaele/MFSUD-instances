@@ -1,11 +1,10 @@
-**MFSUD – Instances**
+# MFSUD – Instances
 
-This repository stores the instances used in the paper entitled `Robust Policies for a Multi-Period Fleet Sizing Problem under Demand Uncertainty`.
+This repository stores the instances used in the paper entitled `Robust Policies for a Multi-Period Fleet Sizing Problem under Demand Uncertainty` by Alice Raffaele, Demetrio Laganà, Roberto Musmanno, and Roberto Roberti.
 
+In this repository, there are two benchmark sets:
 
-There are two benchmark sets:
-
-- `Solomon`, composed of 1800 instances (half with 25 customers and the other half with 50 customers).
+- `Solomon`, composed of 1800 instances (half with 25 customers and the other half with 50 customers) divided into three subfolders.
 
 	The instance format is the following:
 
@@ -26,7 +25,7 @@ There are two benchmark sets:
 	- the 1350 labeled `Solomon*_25.txt` – `Solomon*_100.txt` are just *sampled* instances (i.e., at most $\Gamma$ customers exceed their minimum demand not on the same day).
 
 	
-- `Industrial`, composed of 180 instances (with different numbers of customers in [200, 300]).
+- `Industrial`, composed of 180 instances (with different numbers of customers in [200, 300]) divided into three subfolders.
 
 	The instance format is almost the same as for `Solomon` instances: 
 	
