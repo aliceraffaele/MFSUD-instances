@@ -21,7 +21,7 @@ In this repository, there are two benchmark sets:
 	k 96 1 # All vehicles are homogeneous, each with capacity 96 and cost 1*1000 = 1000
 	```
 	In particular:
-	-  the 450 labeled `Solomon*_0.txt` – `Solomon*_24.txt` are *extreme* instances  (i.e., exactly $\Gamma$ customers require their maximum demand, and, in particular, `Solomon*_0.txt` – `Solomon*_4.txt` are *very extreme*, in the sense that they ask for service on the same day);
+	-  the 450 labeled `Solomon*_0.txt` – `Solomon*_24.txt` are *extreme* instances  (i.e., exactly $\Gamma$ customers require their maximum demand, and, in particular, `Solomon*_0.txt` – `Solomon*_4.txt` are *very extreme*, in the sense that these $\Gamma$ customers ask for service on the same day);
 	- the 1350 labeled `Solomon*_25.txt` – `Solomon*_100.txt` are just *sampled* instances (i.e., at most $\Gamma$ customers exceed their minimum demand not on the same day).
 
 	
@@ -48,9 +48,11 @@ In this repository, there are two benchmark sets:
 	```
 	
 	In particular:
-	-  the 15 labeled `Industrial*_0.txt` – `Industrial*_4.txt` are *extreme* instances  (i.e., exactly $\Gamma$ customers require their maximum demand, and, in particular, `Industrial*_0.txt` are *very extreme*, in the sense that they ask for service on the same day);
+	-  the 15 labeled `Industrial*_0.txt` – `Industrial*_4.txt` are *extreme* instances  (i.e., exactly $\Gamma$ customers require their maximum demand, and, in particular, `Industrial*_0.txt` are *very extreme*, in the sense that these $\Gamma$ customers ask for service on the same day);
 	- the 45 labeled `Industrial*_5.txt` – `Industrial*_19.txt` are just *sampled* instances (i.e., at most $\Gamma$ customers exceed their minimum demand not on the same day).
 
 In all instances, the staffing cost is always set to `100`.
+
+For any questions, please write an email to [alice.raffaele@unical.it](mailto:alice.raffaele@unical.it).
 	
 
