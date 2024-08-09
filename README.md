@@ -1,6 +1,6 @@
 # MFSUD – Instances
 
-This repository stores the instances used in the paper entitled `Robust Policies for a Multi-Period Fleet Sizing Problem under Demand Uncertainty` by Alice Raffaele, Demetrio Laganà, Roberto Musmanno, and Roberto Roberti.
+This repository stores the instances used in the paper entitled `Robust Policies for a Multi-Period Fleet Sizing Problem under Demand Uncertainty` by Alice Raffaele, Demetrio Laganà, and Roberto Roberti.
 
 In this repository, there are two benchmark sets:
 
